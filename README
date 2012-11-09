@@ -1,0 +1,11 @@
+#2012-11-08
+Here are some vhdl files to make a grt_than circuit that compares 2 vectors
+of 4 bits. 
+
+The design is based on a sum of products behaviour of a greater than circuit
+of 2 bits, and then the instantiation of this circuit and an equal comparator
+plus some "glueing" logic gates to make the 4 bits version.
+
+I added the test benches for both designs (the interesting thing).
+
+Please submit your suggerences to titockmente@gmail.com

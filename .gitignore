@@ -1,0 +1,7 @@
+*.vcd
+*.o
+*.cf
+grt_than2_tb
+grt_than4
+grt_than4_tb
+grt_than4_tb_2
